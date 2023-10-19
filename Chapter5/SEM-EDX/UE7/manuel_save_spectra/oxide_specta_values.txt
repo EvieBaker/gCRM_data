@@ -1,0 +1,34 @@
+Spectrum Label	C	Na	Mg	Al	Si	S	Cl	K	Ca	Cr	Fe	Ba	Ce	Total	Project Path
+Spectrum 1	98.51			0.15	0.20	0.65		0.02		0.17	0.30			100.00	k7/Specimen 1/Site 2
+Spectrum 2	79.33			0.14	0.26	14.79				0.16	5.32			100.00	k7/Specimen 1/Site 2
+Spectrum 3	97.53		0.03	0.23	0.32	1.23		0.04		0.14	0.47			100.00	k7/Specimen 1/Site 2
+Spectrum 4	87.52			0.24	0.42	8.36		0.04		0.19	3.23			100.00	k7/Specimen 1/Site 3
+Spectrum 5	87.13			0.11	0.44	8.92				0.12	3.27			100.00	k7/Specimen 1/Site 3
+Spectrum 6	99.34			0.17	0.34					0.15				100.00	k7/Specimen 1/Site 5
+Spectrum 7	68.16	0.23	0.38	2.10	4.00	16.57		0.34	0.16		8.07			100.00	k7/Specimen 1/Site 6
+Spectrum 8	79.84	0.72	0.42	3.50	7.96	3.98		0.88	0.64		2.05			100.00	k7/Specimen 1/Site 6
+Spectrum 9	71.74		0.40	2.05	3.91	14.19		0.39			7.32			100.00	k7/Specimen 1/Site 6
+Spectrum 10	79.57			0.17	0.42	14.37		0.03	0.05	0.09	5.30			100.00	k7/Specimen 1/Site 7
+Spectrum 11	86.89	0.12	0.16	1.20	9.72	0.75	0.00	0.17	0.09	0.31	0.52			99.93	k7/Specimen 1/Site 7
+Spectrum 12	96.07		0.07	0.69	1.13	0.75		0.12	0.13	0.56	0.48			100.00	k7/Specimen 1/Site 7
+Spectrum 13	93.35			0.29	0.64	0.31			4.86	0.32	0.22			100.00	k7/Specimen 1/Site 7
+Spectrum 14	99.63			0.08	0.15					0.14				100.00	k7/Specimen 1/Site 7
+Spectrum 15	97.48			0.35	1.10	0.47				0.61				100.00	k7/Specimen 1/Site 7
+Spectrum 16	82.56				16.15					1.29				100.00	k7/Specimen 1/Site 7
+Spectrum 17	77.01			0.30	0.72	15.56					6.42			100.00	k7/Specimen 1/Site 7
+Spectrum 18	80.78		0.54	6.80	8.74	0.85		0.63		0.60	1.05			100.00	k7/Specimen 1/Site 7
+Spectrum 19	85.36	0.23	0.51	5.30	6.81	0.19	0.00	0.50		0.40	0.64			99.94	k7/Specimen 1/Site 7
+Spectrum 20	98.73			0.11	0.22				0.67	0.27				100.00	k7/Specimen 1/Site 7
+Spectrum 21	82.11	0.40	0.33	1.52	3.53	7.56	0.00	0.20	0.18	0.10	3.77			99.71	k7/Specimen 1/Site 8
+Spectrum 22	86.45	0.68	0.51	2.18	5.53	2.14	0.00	0.33	0.29		1.43			99.53	k7/Specimen 1/Site 8
+Spectrum 23	81.78		0.47	2.42	4.19	6.99	0.00	0.37	0.21		3.47			99.89	k7/Specimen 1/Site 9
+Spectrum 24	84.05			0.16	0.24	11.31				0.36	3.88			100.00	k7/Specimen 1/Site 10
+Spectrum 25	81.46			0.10	0.18	13.31				0.22	4.73			100.00	k7/Specimen 1/Site 10
+Spectrum 26	83.02			0.15	0.23	12.04			0.05	0.26	4.25			100.00	k7/Specimen 1/Site 11
+Spectrum 27	81.23			0.23	0.37	13.27				0.28	4.62			100.00	k7/Specimen 1/Site 11
+Spectrum 28	80.39			0.21	0.28	13.79				0.40	4.92			100.00	k7/Specimen 1/Site 11
+Spectrum 29	88.80			0.66	0.91							3.45	6.18	100.00	k7/Specimen 1/Site 12
+Spectrum 30	86.67			0.51	0.93							3.73	8.16	100.00	k7/Specimen 1/Site 12
+Spectrum 31	80.44			0.64									18.92	100.00	k7/Specimen 1/Site 13
+Spectrum 32	87.41			0.32	0.39							11.88		100.00	k7/Specimen 1/Site 13
+Spectrum 33	94.16			0.59	0.65			0.08				4.52		100.00	k7/Specimen 1/Site 13
