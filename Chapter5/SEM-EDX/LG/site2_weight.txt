@@ -1,0 +1,21 @@
+
+Project: Project 1
+Owner: Operator
+Site: Site of Interest 2
+
+Sample: Sample 3
+Type: Default
+ID: 
+
+Processing option : All elements analysed (Normalised)
+
+All results in weight%
+
+Spectrum	In stats.	C	O	Na	Mg	Al	Si	S	K	Ca	Fe	Cu	W	Hg	Po	Total
+	
+Spectrum 1	Yes	39.20	19.05	0.22	0.22	1.31	3.31	16.95	0.38	0.61	17.80	0.18			0.77	100.00
+Spectrum 2	Yes	39.28	21.12	0.52	0.22	1.31	2.41	18.64	0.20	0.07	16.26	0.14	0.22	-1.44	1.05	100.00
+	
+	
+Max.		39.28	21.12	0.52	0.22	1.31	3.31	18.64	0.38	0.61	17.80	0.18	0.22	-1.44	1.05		
+Min.		39.20	19.05	0.22	0.22	1.31	2.41	16.95	0.20	0.07	16.26	0.14	0.22	-1.44	0.77	

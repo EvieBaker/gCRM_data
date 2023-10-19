@@ -1,0 +1,21 @@
+
+Project: Project 1
+Owner: Operator
+Site: Site of Interest 1
+
+Sample: Sample 1
+Type: Default
+ID: 
+
+Processing option : All elements analysed (Normalised)
+
+All results in atomic%
+
+Spectrum	In stats.	O	Al	Si	S	Cl	K	Ca	Cr	Fe	Cu	
+	
+Spectrum 1	Yes	26.46	0.84	5.62	2.46	0.59	0.55	1.06	0.97	60.91	0.54	
+Spectrum 2	Yes	53.44	0.99	10.48	1.93		2.58	1.05	3.55	24.39	1.60	
+	
+	
+Max.		53.44	0.99	10.48	2.46	0.59	2.58	1.06	3.55	60.91	1.60		
+Min.		26.46	0.84	5.62	1.93	0.59	0.55	1.05	0.97	24.39	0.54	

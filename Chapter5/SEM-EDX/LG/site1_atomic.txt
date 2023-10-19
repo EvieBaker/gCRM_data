@@ -1,0 +1,22 @@
+
+Project: Project 1
+Owner: Operator
+Site: Site of Interest 1
+
+Sample: Sample 3
+Type: Default
+ID: 
+
+Processing option : All elements analysed (Normalised)
+
+All results in atomic%
+
+Spectrum	In stats.	C	O	Na	Mg	Al	Si	S	K	Ca	Fe	Cu	W	Po	
+	
+Spectrum 1	Yes	89.48	8.21			0.03	0.09	1.37			0.79	0.03			
+Spectrum 2	Yes	79.52	12.89	0.06	0.03	0.13	0.26	4.56	0.03	0.01	2.45	0.03	0.01	0.03	
+Spectrum 3	Yes	81.10	18.46			0.06	0.13	0.15			0.06	0.03			
+	
+	
+Max.		89.48	18.46	0.06	0.03	0.13	0.26	4.56	0.03	0.01	2.45	0.03	0.01	0.03		
+Min.		79.52	8.21	0.06	0.03	0.03	0.09	0.15	0.03	0.01	0.06	0.03	0.01	0.03	

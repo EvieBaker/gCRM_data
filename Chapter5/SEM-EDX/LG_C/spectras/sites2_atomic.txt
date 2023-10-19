@@ -1,0 +1,21 @@
+
+Project: Project 1
+Owner: Operator
+Site: Site of Interest 2
+
+Sample: Sample 1
+Type: Default
+ID: 
+
+Processing option : All elements analysed (Normalised)
+
+All results in atomic%
+
+Spectrum	In stats.	O	Na	Mg	Al	Si	S	Cl	K	Ca	Cr	Fe	Cu	
+	
+Spectrum 1	Yes	44.91	1.58	0.42	0.56	1.61	21.08	0.76	0.13	0.17	0.70	27.97	0.10	
+	
+Mean		44.91	1.58	0.42	0.56	1.61	21.08	0.76	0.13	0.17	0.70	27.97	0.10		
+Std. deviation		0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00		
+Max.		44.91	1.58	0.42	0.56	1.61	21.08	0.76	0.13	0.17	0.70	27.97	0.10		
+Min.		44.91	1.58	0.42	0.56	1.61	21.08	0.76	0.13	0.17	0.70	27.97	0.10	
