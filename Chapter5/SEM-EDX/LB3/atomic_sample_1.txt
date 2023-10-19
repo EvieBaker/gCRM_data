@@ -1,0 +1,21 @@
+
+Project: Project 1
+Owner: Oxford
+Site: Site of Interest 1
+
+Sample: Sample 1
+Type: Default
+ID: 
+
+Processing option : All elements analysed (Normalised)
+
+All results in weight%
+
+Spectrum	In stats.	O	Al	Si	Ca	Cu	Au	Pb	Total
+	
+Spectrum 1	Yes	51.35	0.24	0.93	17.66		28.67	1.15	100.00
+Spectrum 2	Yes	49.69	0.25		15.07	0.08	33.63	1.29	100.00
+	
+	
+Max.		51.35	0.25	0.93	17.66	0.08	33.63	1.29		
+Min.		49.69	0.24	0.93	15.07	0.08	28.67	1.15	
