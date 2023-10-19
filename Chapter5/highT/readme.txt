@@ -1,0 +1,1 @@
+The raw .cur files are included with the empty.cur file being for an empty test tube, which was removed from the files during plotting.
