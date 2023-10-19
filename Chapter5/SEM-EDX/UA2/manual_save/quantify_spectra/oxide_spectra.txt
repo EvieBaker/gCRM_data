@@ -1,0 +1,15 @@
+Spectrum Label	C	Na	Mg	Al	Si	S	Cl	K	Ca	Fe	Zn	Ag	Total	Project Path
+Spectrum 1		3.35	4.17	24.21	58.28		0.00	3.27		5.64			98.93	Na2C_2coats/Specimen 1/Site 1
+Spectrum 2				34.03	57.91			2.34		5.71			100.00	Na2C_2coats/Specimen 1/Site 1
+Spectrum 3				8.29	91.71								100.00	Na2C_2coats/Specimen 1/Site 1
+Spectrum 4				29.75	57.06			2.99		10.20			100.00	Na2C_2coats/Specimen 1/Site 1
+Spectrum 5	78.88			0.52	0.73	14.48				5.39			100.00	Na2C_2coats/Specimen 1/Site 4
+Spectrum 6				2.19	2.85	68.82				26.14			100.00	Na2C_2coats/Specimen 1/Site 4
+Spectrum 7				7.85	11.52	53.03			5.73	21.88			100.00	Na2C_2coats/Specimen 1/Site 4
+Spectrum 8				2.66	4.57	66.67				26.10			100.00	Na2C_2coats/Specimen 1/Site 4
+Spectrum 9			1.15	6.56	13.04	54.27		0.64	0.51	23.84			100.00	Na2C_2coats/Specimen 1/Site 5
+Spectrum 10		0.83	1.43	8.83	31.61	29.95		0.97	14.64	11.74			100.00	Na2C_2coats/Specimen 1/Site 5
+Spectrum 11			0.56	4.99	12.69	52.17		0.48	0.50	27.39	1.22		100.00	Na2C_2coats/Specimen 1/Site 5
+Spectrum 12				8.67	14.50							76.83	100.00	Na2C_2coats/Specimen 1/whiteblob
+Spectrum 13	99.52				0.47								100.00	Na2C_2coats/Specimen 1/zebra
+oxide

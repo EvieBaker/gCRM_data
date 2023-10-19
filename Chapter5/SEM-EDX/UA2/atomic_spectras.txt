@@ -1,0 +1,21 @@
+atomic 
+Spectrum Label	O	Na	Mg	Al	Si	S	Cl	K	Ca	Fe	Co	Au	Total	Project Path
+Spectrum 1	67.96				3.79	16.07			0.24	11.95			100.00	Na2c_1ocoat/Specimen 1/Site 1 - cluster
+Spectrum 2	66.50		0.68	2.47	4.72	13.62		0.39	0.32	11.30			100.00	Na2c_1ocoat/Specimen 1/Site 1 - cluster
+Spectrum 3	65.12	1.18	0.97	3.02	6.01	12.04	0.55	0.45	0.29	10.38	0.00		100.00	Na2c_1ocoat/Specimen 1/Site 1 - cluster
+Spectrum 4	65.51			1.73	29.09				0.31	1.26		2.10	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+Spectrum 5	64.83			6.66	24.14							4.37	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+Spectrum 6	67.30		0.41	1.31	5.54	13.96				10.54		0.95	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+Spectrum 7	63.70			8.01	21.10				2.59			4.60	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+SPECTRUM 3,4,5,6,7 MATCH WITH SITE4 CLUSTER 3 IN NA2C_1OCOAT
+
+
+wieght
+Spectrum Label	O	Na	Mg	Al	Si	S	Cl	K	Ca	Fe	Co	Au	Total	Project Path
+Spectrum 1	45.58				4.46	21.59			0.40	27.97			100.00	Na2c_1ocoat/Specimen 1/Site 1 - cluster
+Spectrum 2	44.79		0.70	2.80	5.59	18.38		0.65	0.54	26.56			100.00	Na2c_1ocoat/Specimen 1/Site 1 - cluster
+Spectrum 3	44.20	1.16	1.00	3.45	7.16	16.38	0.82	0.75	0.49	24.59	0.00		100.00	Na2c_1ocoat/Specimen 1/Site 1 - cluster
+Spectrum 4	43.51			1.94	33.92				0.51	2.92		17.20	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+Spectrum 5	37.64			6.52	24.61							31.24	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+Spectrum 6	43.06		0.39	1.41	6.22	17.91				23.55		7.45	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
+Spectrum 7	35.92			7.62	20.88				3.66			31.91	100.00	Na2c_1ocoat/Specimen 1/Site 4 - cluster 3
